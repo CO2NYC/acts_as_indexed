@@ -4,3 +4,5 @@ coverage
 index
 *.gem
 .bundle
+
+.idea/workspace.xml
