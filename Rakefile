@@ -49,20 +49,20 @@ begin
     rdoc.rdoc_files.include('lib/**/*.rb')
   end
 rescue LoadError
-  puts "sdoc not installed"
+  puts 'sdoc not installed'
 end
 
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "acts_as_indexed"
-    gemspec.summary = "Acts As Indexed is a plugin which provides a pain-free way to add fulltext search to your Ruby on Rails app"
+    gemspec.name = 'acts_as_indexed'
+    gemspec.summary = 'Acts As Indexed is a plugin which provides a pain-free way to add fulltext search to your Ruby on Rails app'
     gemspec.description = gemspec.summary
-    gemspec.email = "dougal.s@gmail.com"
-    gemspec.homepage = "http://github.com/dougal/acts_as_indexed"
-    gemspec.authors = ["Douglas F Shearer"]
+    gemspec.email = 'dougal.s@gmail.com'
+    gemspec.homepage = 'http://github.com/dougal/acts_as_indexed'
+    gemspec.authors = ['Douglas F Shearer']
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
-  puts "Jeweler not available. Install it with: sudo gem install jeweler"
+  puts 'Jeweler not available. Install it with: sudo gem install jeweler'
 end

@@ -63,7 +63,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/dougal/acts_as_indexed"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.23"
+  s.rubygems_version = "2.6.6"
   s.summary = "Acts As Indexed is a plugin which provides a pain-free way to add fulltext search to your Ruby on Rails app"
 end
 
