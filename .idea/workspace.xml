@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c2376e-a026-4111-ba51-d716c81f41ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfiles/rails5_0.gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VERSION" afterPath="$PROJECT_DIR$/VERSION" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/acts_as_indexed.iml" afterPath="$PROJECT_DIR$/.idea/acts_as_indexed.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/acts_as_indexed.gemspec" afterPath="$PROJECT_DIR$/acts_as_indexed.gemspec" />
     </list>
     <ignored path="acts_as_indexed.iws" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="acts_as_indexed.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/acts_as_indexed.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -365,12 +362,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469816569433</updated>
-      <workItem from="1469816570642" duration="1109000" />
+      <workItem from="1469816570642" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1109000" />
+    <option name="totallyTimeSpent" value="1129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -516,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/acts_as_indexed.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
